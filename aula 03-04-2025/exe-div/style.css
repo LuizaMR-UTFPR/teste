@@ -1,0 +1,19 @@
+body{
+    background-color:blanchedalmond;
+}
+h1{
+    color: burlywood;
+}
+#divPrimeira{
+    background-color: aquamarine;
+    color: fuchsia;
+}
+#divSegunda{
+    background-color: cornflowerblue;
+}
+.divTerceira{
+    background-color: blueviolet;
+}
+#palavrinha{
+    color: bisque;
+}

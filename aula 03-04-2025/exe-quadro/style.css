@@ -1,0 +1,29 @@
+body{
+    background-color:lightcyan;
+}
+#div1{
+    background-color: darkseagreen;
+    text-align: center;
+}
+#div2 {
+    background-color: darkcyan;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+#esquerda, #direita {
+    width: 50%;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+#esquerda{
+    background-color: darkslategray;
+}
+#direita{
+    background-color:mediumaquamarine;
+}
+#div3{
+    background-color: lightskyblue;
+    text-align: center;
+}
